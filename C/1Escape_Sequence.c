@@ -4,7 +4,7 @@ int main(){
     /*Escape Sequence = karakter kombinasi backslash \ yang diikuti dengan huruf atau kombinasi beberapa digit, yang menentukan tindakan pada baris teks atau yang dikenal dengan string*/
     printf("Aku\nsuka\nbakso\n");                                       //Newline
     printf("\"Aku suka Main Game\" - Rangga Muhamad Fajar\n");          //Quote
-    printf("\'Aku ingin belajar coding\' - Rangga Muhamad Fajar\n");    //Single Quote
+    printf("\'Aku ingin belajar coding\' -- Rangga Muhamad Fajar\n");    //Single Quote
     printf("\\Ini adalah backslash\\ \n");                              // Backslash
     printf("Siapa namamu\? \n");                                        // Tanda Tanya
     printf("\a Rangga\n");                                              // Bell/Beep
